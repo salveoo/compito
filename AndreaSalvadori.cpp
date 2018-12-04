@@ -11,7 +11,11 @@ int main()
 	
 	do
 	{
+<<<<<<< HEAD
 		cout << z << endl;
+=======
+		int a = 0;
+>>>>>>> ignore
 		z++;
 	} while(z != 11)
 		
@@ -20,4 +24,5 @@ int main()
 }
 
 //04/12/2018
+
 

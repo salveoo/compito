@@ -10,7 +10,7 @@ int main()
 	
 	do
 	{
-		cout << cifra: << z << endl;
+		cin >>;
 		z++;
 	} while(z != 11)
 		

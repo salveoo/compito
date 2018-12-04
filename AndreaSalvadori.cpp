@@ -7,10 +7,11 @@ using namespace std;
 int main()
 {
     int z = 1;
+	int c = 0;
 	
 	do
 	{
-		cout << z;
+		c++;
 		z++;
 	} while(z != 11)
 		

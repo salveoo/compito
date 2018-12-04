@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//aggiunta nome
+
 int main()
 {
     int z = 1;
@@ -9,7 +11,7 @@ int main()
 	
 	do
 	{
-		c++;
+		int a = 0;
 		z++;
 	} while(z != 11)
 		
@@ -18,4 +20,5 @@ int main()
 }
 
 //04/12/2018
+
 

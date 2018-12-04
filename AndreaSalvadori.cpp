@@ -11,7 +11,7 @@ int main()
 	
 	do
 	{
-		c++;
+		cout << z << endl;
 		z++;
 	} while(z != 11)
 		

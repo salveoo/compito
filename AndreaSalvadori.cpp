@@ -8,4 +8,6 @@ int main()
         cout << "numero: " << i << endl;
         
         system("pause");
+		
+		
 }

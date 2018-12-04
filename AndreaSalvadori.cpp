@@ -8,7 +8,7 @@ int main()
 	
 	do
 	{
-		cin >>;
+		cout << z;
 		z++;
 	} while(z != 11)
 		
